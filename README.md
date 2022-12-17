@@ -4,7 +4,7 @@
 A French **Data Scientist** interested in:
 - 🤖 AI (obviously 🙃), mainly NLP. Attention is all you need 😉
 - 🐍 Programming, mainly in Python (what else? 😆)  
-- 💰 Finance, 
+- 💰 Finance, I like managing portfolios, and build tools to help me! 
 - 🎓 Education, I like teaching and learning! 
 
 🌱 I’m currently learning C! (No Python, I swear it's not what you think... 😧) to enhance my understandings of programming languages
