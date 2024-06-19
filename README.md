@@ -4,5 +4,7 @@
 A French **Data Scientist** interested in:
 - 🤖 AI (obviously 🙃), mainly NLP. Attention is all you need 😉
 - 🐍 Programming, mainly in Python (what else? 😆)  
-- 💰 Finance, I like managing portfolios, and build tools to help me! 
+- 💰 Finance, I like managing portfolios, and building tools to help me! 
 - 🎓 Education, I like teaching and learning! 
+
+You can have a look at all my projects on my website: https://gregoireamato.vercel.app/
